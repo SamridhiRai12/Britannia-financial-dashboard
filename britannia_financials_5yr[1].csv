@@ -1,0 +1,96 @@
+﻿Statement,Line item (₹ crore),Key,FY2021-22,FY2022-23,FY2023-24,FY2024-25,FY2025-26
+Income Statement,Sale of goods,sale_of_goods,13944.67,15984.9,16546.21,17535.02,18858.21
+Income Statement,Other operating revenues,other_operating_rev,191.59,315.65,223.06,407.65,293.38
+Income Statement,Revenue from operations,revenue,14136.26,16300.55,16769.27,17942.67,19151.59
+Income Statement,Other income,other_income,222.83,215.86,214.18,227.09,224.03
+Income Statement,Total income,total_income,14359.09,16516.41,16983.45,18169.76,19375.62
+Income Statement,Cost of materials consumed,cost_materials,7473.97,8326.7,8546.89,9859.45,10350.02
+Income Statement,Purchases of stock-in-trade,purchases_sit,1361.59,1337.13,941.48,809.35,805.23
+Income Statement,"Changes in inventories (FG, WIP, SIT)",change_inventories,-75.26,-72.53,3.66,-64.75,-22.37
+Income Statement,Employee benefits expense,employee_cost,542.26,658.38,708.7,704.59,823.8
+Income Statement,Finance costs,finance_costs,144.29,169.1,164.0,138.8,112.76
+Income Statement,Depreciation & amortisation,depreciation,200.54,225.91,300.46,313.34,336.83
+Income Statement,Other expenses,other_expenses,2632.19,3219.96,3398.7,3446.88,3650.48
+Income Statement,Total expenses,total_expenses,12279.58,13864.65,14063.89,15207.66,16056.75
+Income Statement,Share of profit/(loss) of associates & JV,share_assoc,-0.2,5.41,-3.19,-10.74,-30.09
+Income Statement,Exceptional items expense/(income),exceptional_expense,0.98,-375.6,2.9,24.79,0.0
+Income Statement,Profit before tax (PBT),pbt,2078.33,3032.77,2913.47,2926.57,3288.78
+Income Statement,Current tax,current_tax,612.24,720.97,765.69,741.68,758.37
+Income Statement,Deferred tax,deferred_tax,-49.89,-4.52,13.56,7.03,-6.6
+Income Statement,Total tax expense,total_tax,562.35,716.45,779.25,748.71,751.77
+Income Statement,Profit after tax (PAT),pat,1515.98,2316.32,2134.22,2177.86,2537.01
+Income Statement,PAT attributable to owners,pat_owners,1524.82,2321.77,2139.81,2178.73,2533.49
+Income Statement,Earnings per share (₹),eps,63.31,96.39,88.84,90.45,105.18
+Income Statement,Cost of goods sold (materials + purchases + inventory change),cogs,8760.3,9591.3,9492.03,10604.05,11132.88
+Income Statement,Gross profit,gross_profit,5375.96,6709.25,7277.24,7338.62,8018.71
+Income Statement,EBITDA (operating),ebitda,2201.51,2830.91,3169.84,3187.15,3544.43
+Income Statement,EBIT (operating),ebit,2000.97,2605.0,2869.38,2873.81,3207.6
+Balance Sheet,"Property, plant & equipment",ppe,1584.05,2472.19,2602.94,2734.61,2672.98
+Balance Sheet,Capital work-in-progress,cwip,535.68,105.0,187.54,89.2,39.04
+Balance Sheet,Investment property,investment_property,13.95,40.63,27.48,28.9,27.9
+Balance Sheet,Goodwill,goodwill,139.61,128.16,129.82,132.78,143.95
+Balance Sheet,Other intangible assets,other_intangibles,15.6,14.24,10.9,7.51,5.09
+Balance Sheet,Investment in associates & JV,associates_jv,2.09,495.16,494.36,483.62,453.53
+Balance Sheet,Non-current investments,nc_investments,926.55,1028.09,575.85,1270.17,1517.71
+Balance Sheet,Non-current loans,nc_loans,100.0,150.0,0.0,25.0,25.0
+Balance Sheet,Other non-current financial assets,nc_other_fin_assets,31.8,23.57,25.5,28.19,30.99
+Balance Sheet,Deferred tax assets (net),deferred_tax_assets,51.67,57.25,43.88,36.59,43.01
+Balance Sheet,Non-current tax assets (net),tax_assets_nc,44.93,43.64,67.95,46.26,69.31
+Balance Sheet,Other non-current assets,other_nca,99.18,48.56,58.68,42.04,25.77
+Balance Sheet,Total non-current assets,total_nca,3545.11,4606.49,4224.9,4924.87,5054.28
+Balance Sheet,Inventories,inventories,1367.49,1193.26,1181.22,1236.51,1345.93
+Balance Sheet,Current investments,c_investments,833.73,1800.99,1696.51,1111.64,1638.52
+Balance Sheet,Trade receivables,trade_receivables,331.93,328.94,393.33,448.61,469.21
+Balance Sheet,Cash & cash equivalents,cash,117.99,102.38,322.8,132.78,220.0
+Balance Sheet,Other bank balances,bank_balances,66.91,95.6,123.55,179.7,132.44
+Balance Sheet,Current loans (inter-corporate deposits),c_loans,698.0,560.0,460.0,50.0,65.0
+Balance Sheet,Other current financial assets,c_other_fin_assets,428.03,451.96,531.13,630.46,664.53
+Balance Sheet,Other current assets,other_ca,138.22,180.74,133.71,123.98,142.03
+Balance Sheet,Assets held for sale,assets_held_for_sale,0.0,32.36,6.41,0.0,0.0
+Balance Sheet,Total current assets,total_ca,3982.3,4746.23,4848.66,3913.68,4677.66
+Balance Sheet,Total assets,total_assets,7527.41,9352.72,9073.56,8838.55,9731.94
+Balance Sheet,Equity share capital,share_capital,24.09,24.09,24.09,24.09,24.09
+Balance Sheet,Other equity,other_equity,2534.01,3510.18,3917.43,4331.63,5082.47
+Balance Sheet,Equity attributable to owners,equity_parent,2558.1,3534.27,3941.52,4355.72,5106.56
+Balance Sheet,Non-controlling interests,nci,27.5,30.23,24.5,25.6,29.32
+Balance Sheet,Total equity,total_equity,2585.6,3564.5,3966.02,4381.32,5135.88
+Balance Sheet,Non-current borrowings,nc_borrowings,706.99,1551.8,904.72,712.94,286.11
+Balance Sheet,Non-current lease liabilities,nc_lease,13.76,14.36,20.13,19.45,19.31
+Balance Sheet,Other non-current financial liabilities,nc_other_fin_liab,52.64,60.15,65.66,72.21,72.95
+Balance Sheet,Deferred tax liabilities (net),deferred_tax_liab,0.81,1.87,2.06,1.8,1.62
+Balance Sheet,Non-current provisions,nc_provisions,20.47,25.64,30.56,32.57,36.08
+Balance Sheet,Total non-current liabilities,total_ncl,794.67,1653.82,1023.13,838.97,416.07
+Balance Sheet,Current borrowings,c_borrowings,1758.55,1428.71,1136.49,511.83,1071.72
+Balance Sheet,Current lease liabilities,c_lease,1.9,2.5,3.62,2.29,3.14
+Balance Sheet,Trade payables - MSME,tp_msme,62.76,43.92,30.83,27.83,21.41
+Balance Sheet,Trade payables - others,tp_other,1260.05,1404.89,1596.65,1724.4,1875.0
+Balance Sheet,Other current financial liabilities,c_other_fin_liab,393.96,496.21,497.4,429.34,442.81
+Balance Sheet,Other current liabilities,other_cl,130.73,176.34,167.29,194.7,88.67
+Balance Sheet,Current provisions,c_provisions,464.64,513.39,559.2,604.66,594.52
+Balance Sheet,Current tax liabilities (net),tax_liab,74.55,68.44,92.93,123.21,82.72
+Balance Sheet,Total current liabilities,total_cl,4147.14,4134.4,4084.41,3618.26,4179.99
+Balance Sheet,Total liabilities,total_liabilities,4941.81,5788.22,5107.54,4457.23,4596.06
+Balance Sheet,Total borrowings (debt),total_debt,2465.54,2980.51,2041.21,1224.77,1357.83
+Balance Sheet,Borrowings incl. lease liabilities,debt_incl_leases,2481.2,2997.37,2064.96,1246.51,1380.28
+Balance Sheet,Liquid treasury (cash + bank + current investments),liquid_treasury,1018.63,1998.97,2142.86,1424.12,1990.96
+Balance Sheet,Net debt / (net cash),net_debt,1446.91,981.54,-101.65,-199.35,-633.13
+Balance Sheet,Net working capital (CA - CL),nwc,-164.84,611.83,764.25,295.42,497.67
+Balance Sheet,Operating working capital (Inv + Rec - Payables),op_wc,376.61,73.39,-52.93,-67.11,-81.27
+Balance Sheet,Capital employed (Total assets - CL),capital_employed,3380.27,5218.32,4989.15,5220.29,5551.95
+Cash Flow,Cash generated from operations (pre-tax),cash_gen_ops,1886.43,3251.96,3337.85,3179.83,3433.34
+Cash Flow,Income tax paid (net),tax_paid,586.91,725.75,764.87,689.21,821.74
+Cash Flow,Net cash from operating activities,cfo,1299.52,2526.21,2572.98,2490.62,2611.6
+Cash Flow,Net cash from / (used in) investing activities,cfi,910.89,-1517.06,484.15,66.43,-757.27
+Cash Flow,Net cash used in financing activities,cff,-2245.84,-1028.37,-2839.13,-2753.9,-1782.62
+Cash Flow,"Capital expenditure (PPE, CWIP & intangibles)",capex,550.18,711.46,552.87,374.85,205.57
+Cash Flow,Proceeds from sale of PPE,ppe_sale_proceeds,3.16,78.43,64.52,4.58,2.12
+Cash Flow,Free cash flow (CFO - capex),fcf,749.34,1814.75,2020.11,2115.77,2406.03
+Cash Flow,Interest paid,interest_paid,118.61,195.66,164.28,170.62,107.18
+Cash Flow,Dividends paid (cash flow statement),dividends_paid,2484.88,1359.24,1732.47,1767.54,1803.95
+Cash Flow,Dividends recognised in equity,dividends_declared,1794.47,1360.91,1734.25,1770.38,1806.51
+Cash Flow,FCF after interest & dividends,fcf_after_div,-1854.15,259.85,123.36,177.61,494.9
+Cash Flow,Working-capital change: inventories,chg_inventories_cf,-274.76,177.15,12.6,-54.33,-105.05
+Cash Flow,Working-capital change: trade receivables,chg_receivables_cf,-72.21,1.29,-63.65,-53.44,-12.95
+Cash Flow,Net change in cash & equivalents,net_change_cash,-35.43,-19.22,218.0,-196.85,71.71
+Cash Flow,FX effect on cash,fx_effect_cash,3.3,10.06,1.29,2.64,15.89
+Cash Flow,Closing cash (net of overdraft),closing_cash_net_od,109.32,100.16,319.45,125.24,212.84
